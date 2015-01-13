@@ -1,7 +1,7 @@
 {
   "name": "ember-allpurpose",
-  "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "version": "1.0.0",
+  "description": "Easily consumed utility functions for the rest of us.",
   "directories": {
     "doc": "doc",
     "test": "tests"
@@ -11,12 +11,19 @@
     "build": "ember build",
     "test": "ember test"
   },
-  "repository": "",
+  "homepage": "https://github.com/runspired/ember-allpurpose",
+  "bugs": "https://github.com/runspired/ember-allpurpose/issues",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:runspired/ember-allpurpose.git"
+  },
   "engines": {
     "node": ">= 0.10.0"
   },
-  "author": "",
-  "license": "MIT",
+  "author": {
+    "name": "Chris Thoburn (@runspired)",
+    "url": "http://runspired.com"
+  },
   "devDependencies": {
     "broccoli-asset-rev": "^2.0.0",
     "broccoli-ember-hbs-template-compiler": "^1.6.1",
