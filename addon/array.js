@@ -1,6 +1,6 @@
 import inArray from './array/in-array';
 
 export default {
-    inArray : inArray
+  inArray : inArray
 };
 export { inArray };

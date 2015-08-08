@@ -11,28 +11,28 @@ import format from "./string/format";
 import sget from "./string/get";
 
 export default {
-    charAt : charAt,
-    capFirstLetter : capFirstLetter,
-    pluralize : pluralize,
-    underscoreToWords : underscoreToWords,
-    capitalizeWords : capitalizeWords,
-    filterDigits : filterDigits,
-    trim : trim,
-    shrinkNewLines : shrinkNewLines,
-    test : test,
-    format : format,
-    sget : sget
+  charAt : charAt,
+  capFirstLetter : capFirstLetter,
+  pluralize : pluralize,
+  underscoreToWords : underscoreToWords,
+  capitalizeWords : capitalizeWords,
+  filterDigits : filterDigits,
+  trim : trim,
+  shrinkNewLines : shrinkNewLines,
+  test : test,
+  format : format,
+  sget : sget
 };
 export {
-    charAt,
-    capFirstLetter,
-    pluralize,
-    underscoreToWords,
-    capitalizeWords,
-    filterDigits,
-    trim,
-    shrinkNewLines,
-    test,
-    format,
-    sget
+  charAt,
+  capFirstLetter,
+  pluralize,
+  underscoreToWords,
+  capitalizeWords,
+  filterDigits,
+  trim,
+  shrinkNewLines,
+  test,
+  format,
+  sget
 };

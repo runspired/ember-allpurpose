@@ -12,29 +12,29 @@ import hasNoWhitespace from "./test/has-no-whitespace";
 
 //various type tests
 export default {
-    isLuhn :  isLuhn,
-    isEmail : isEmail,
-    isURLy : isURLy,
-    isPhoneNumber : isPhoneNumber,
-    isCreditCard: isCreditCard,
-    isAlNum : isAlNum,
-    isLowercase : isLowercase,
-    isInteger : isInteger,
-    isFloat : isFloat,
-    isWordy : isWordy,
-    hasNoWhitespace : hasNoWhitespace
+  isLuhn :  isLuhn,
+  isEmail : isEmail,
+  isURLy : isURLy,
+  isPhoneNumber : isPhoneNumber,
+  isCreditCard: isCreditCard,
+  isAlNum : isAlNum,
+  isLowercase : isLowercase,
+  isInteger : isInteger,
+  isFloat : isFloat,
+  isWordy : isWordy,
+  hasNoWhitespace : hasNoWhitespace
 };
 
 export {
-    isLuhn,
-    isEmail,
-    isURLy,
-    isPhoneNumber,
-    isCreditCard,
-    isAlNum,
-    isLowercase,
-    isInteger,
-    isFloat,
-    isWordy,
-    hasNoWhitespace
+  isLuhn,
+  isEmail,
+  isURLy,
+  isPhoneNumber,
+  isCreditCard,
+  isAlNum,
+  isLowercase,
+  isInteger,
+  isFloat,
+  isWordy,
+  hasNoWhitespace
 };

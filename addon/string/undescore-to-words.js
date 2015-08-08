@@ -1,3 +1,3 @@
 export default function (s) {
-    return s.replace(/_/g, ' ');
+  return s.replace(/_/g, ' ');
 }

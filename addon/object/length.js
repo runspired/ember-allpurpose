@@ -1,4 +1,4 @@
 import keys from "./keys";
 export default function (o) {
-    return keys(o).length;
+  return keys(o).length;
 }

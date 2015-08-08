@@ -3,10 +3,10 @@ import appendUrlProtocol from './format/append-url-protocol';
 
 export default {
 
-    phoneNumber : phoneNumber,
+  phoneNumber : phoneNumber,
 
-    //does not necessarily return a valid url, use with isURLy
-    appendUrlProtocol : appendUrlProtocol
+  //does not necessarily return a valid url, use with isURLy
+  appendUrlProtocol : appendUrlProtocol
 };
 
 export { phoneNumber, appendUrlProtocol };
